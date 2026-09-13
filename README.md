@@ -2,6 +2,8 @@
 
 A Windows receiver for DVB satellite multicast audio carried inside MPEG transport streams. It can tune supported Windows BDA satellite devices directly through TSDuck, decode DSM-CC/MPE → IPv4/UDP/RTP audio, discover SAP/SDP services, display RCS/UECP/RDS metadata, play the selected stream, open it in normal VLC, record audio, and run a deep MPE scanner.
 
+<img width="2555" height="1368" alt="image" src="https://github.com/user-attachments/assets/2f990504-5f0b-461d-bd2b-bc574ea09f20" />
+
 # Fresh install — do this first
 Extract the complete ZIP to a normal writable folder.
 Run INSTALL-DEPENDENCIES.cmd once on a fresh installation.
