@@ -1,6 +1,7 @@
 # DVB-S-S2-Multicast-Audio-Receiver-Release-V1
 A GUI Windows receiver for DVB satellite multicast audio carried inside MPEG transport streams.
-https://github.com/user-attachments/assets/b20db65e-6bb3-41d4-b33c-a1bea9beb470
+
+https://github.com/user-attachments/assets/c2f67940-bf84-46d4-be77-bb108b1c3e0f
 
 DVB-S/S2 Multicast Audio Receiver Release V1
 A Windows receiver for DVB satellite multicast audio carried inside MPEG transport streams. It can tune supported Windows BDA satellite devices directly through TSDuck, decode DSM-CC/MPE → IPv4/UDP/RTP audio, discover SAP/SDP services, display RCS/UECP/RDS metadata, play the selected stream, open it in normal VLC, record audio, and run a deep MPE scanner.
