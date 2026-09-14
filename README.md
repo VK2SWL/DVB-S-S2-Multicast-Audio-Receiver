@@ -41,8 +41,10 @@ TBS 5927 (Tested)
 
 TBS 6925 (Tested)
 
+TBS 5930 Lite (Tested)
+
 # Known Unsupported DVB-S/S2 PC Tuners
-TBS 5930 Lite (5931) Not yet Supported but might become supported with a future update.
+TBS 5930 (Unknown compatability at this stage)
 
 # Deep Scan
 The built-in Deep Scanner can inspect all PIDs for DSM-CC/MPE, reconstruct IPv4/UDP, identify RTP/AAC and SAP/SDP traffic, and correlate multicast audio services even when normal DVB service signalling is incomplete.
