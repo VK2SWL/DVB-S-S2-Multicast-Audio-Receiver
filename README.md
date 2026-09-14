@@ -62,3 +62,6 @@ Release V1 is the cleaned public release based on the proven standalone BDA, SAP
 
 # Third-party software
 TSDuck is distributed under the BSD 2-Clause license; its notice is included under THIRD-PARTY-LICENSES. VLC, Python, Qt/PySide6, Paramiko and tuner drivers retain their respective licenses.
+
+# Help
+For Help and feedback please email me at VK3SWL@Hotmail.com
