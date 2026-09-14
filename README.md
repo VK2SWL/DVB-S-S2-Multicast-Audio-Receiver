@@ -39,11 +39,11 @@ Selectable Windows audio output when compatible libVLC is available.
 # Known Supported DVB-S/S2 PC Tuners
 TBS 5927 (Tested)
 
-TBS 6925 (Tested)
-
 TBS 5930 Lite (Tested)
 
-TBS 6983 (Works by tuning with EBS Pro)
+TBS 6925 (Tested)
+
+TBS 6983 (Works by feeding a UDP stream from EBS Pro)
 
 # Known Unsupported DVB-S/S2 PC Tuners
 
