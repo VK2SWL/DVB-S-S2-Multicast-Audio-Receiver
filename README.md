@@ -41,7 +41,7 @@ TBS 5927 (Tested)
 
 TBS 5930 Lite (Tested)
 
-TBS 6925 (Tested)
+TBS 6908 (Tested)
 
 TBS 6983 (Works by feeding a UDP stream from EBS Pro)
 
