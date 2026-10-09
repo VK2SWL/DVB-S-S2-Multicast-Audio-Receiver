@@ -37,15 +37,15 @@ MP3, WAV and M4A recording of the selected decoded feed.
 Selectable Windows audio output when compatible libVLC is available.
 
 # Known Supported DVB-S/S2 PC Tuners
-TBS 5927 (Tested)
+TBS 5927 (Tested by Cam VK2SWL)
 
-TBS 5930 Lite (Tested)
+TBS 5930 Lite (Tested by Cam VK2SWL)
 
-TBS 6908 (Tested)
+TBS 6908 (Tested by Rob VK8FOES)
 
 TBS 6983 (Works by feeding a UDP stream from EBS Pro)
 
-DVBSky S952
+DVBSky S952 (Tested by Cam VK2SWL)
 
 # Known Unsupported DVB-S/S2 PC Tuners
 
