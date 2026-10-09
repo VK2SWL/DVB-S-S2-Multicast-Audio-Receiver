@@ -47,6 +47,8 @@ TBS 6983 (Works by feeding a UDP stream from EBS Pro)
 
 # Known Unsupported DVB-S/S2 PC Tuners
 
+DVBSky S952 (Works but audio skips, I believe this is a DVB-S2 decoding error)
+
 
 # Deep Scan
 The built-in Deep Scanner can inspect all PIDs for DSM-CC/MPE, reconstruct IPv4/UDP, identify RTP/AAC and SAP/SDP traffic, and correlate multicast audio services even when normal DVB service signalling is incomplete.
