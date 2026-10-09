@@ -45,9 +45,11 @@ TBS 6908 (Tested)
 
 TBS 6983 (Works by feeding a UDP stream from EBS Pro)
 
+DVBSky S952 (Works but audio skips, I believe this is a DVB-S2 decoding error)
+
 # Known Unsupported DVB-S/S2 PC Tuners
 
-DVBSky S952 (Works but audio skips, I believe this is a DVB-S2 decoding error)
+All devices that we have tested have been found to work at the moment!
 
 
 # Deep Scan
